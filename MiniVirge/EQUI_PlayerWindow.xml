@@ -15,7 +15,7 @@
       <CY>10</CY>
     </Size>
     <Location>
-      <X>98</X>
+      <X>120</X>
       <Y>35</Y>
     </Location>
     <AlignRight>True</AlignRight>
@@ -28,7 +28,7 @@
     <Text>100</Text>
     <RelativePosition>true</RelativePosition>
     <Location>
-      <X>113</X>
+      <X>135</X>
       <Y>35</Y>
     </Location>
     <Size>
@@ -96,7 +96,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>3</X>
-      <Y>55</Y>
+      <Y>59</Y>
     </Location>
     <Size>
       <CX>101</CX>
@@ -121,7 +121,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>3</X>
-      <Y>75</Y>
+      <Y>83</Y>
     </Location>
     <Size>
       <CX>101</CX>
@@ -149,7 +149,7 @@
       <Y>35</Y>
     </Location>
     <Size>
-      <CX>100</CX>
+      <CX>120</CX>
       <CY>12</CY>
     </Size>
     <Text>0</Text>
@@ -190,7 +190,7 @@
       <Y>33</Y>
     </Location>
     <Size>
-      <CX>263</CX>
+      <CX>283</CX>
       <CY>3</CY>
     </Size>
     <Animation>A_DividerMiddle</Animation>
@@ -203,7 +203,7 @@
       <Y>20</Y>
     </Location>
     <Size>
-      <CX>101</CX>
+      <CX>121</CX>
       <CY>15</CY>
     </Size>
     <Text>Aggro Most Hated</Text>
@@ -223,7 +223,7 @@
     <ScreenID>PWW_AggroMostHatedPercLabel</ScreenID>
     <RelativePosition>true</RelativePosition>
     <Location>
-      <X>225</X>
+      <X>245</X>
       <Y>20</Y>
     </Location>
     <Size>
@@ -934,7 +934,7 @@
     <Text>100</Text>
     <RelativePosition>true</RelativePosition>
     <Location>
-      <X>216</X>
+      <X>236</X>
       <Y>37</Y>
     </Location>
     <Size>
@@ -968,7 +968,7 @@
     </Size>
     <AlignCenter>true</AlignCenter>
     <Location>
-      <X>233</X>
+      <X>253</X>
       <Y>37</Y>
     </Location>
   </Label>
@@ -1029,7 +1029,7 @@
       <Y>75</Y>
     </Location>
     <Size>
-      <CX>101</CX>
+      <CX>121</CX>
       <CY>14</CY>
     </Size>
     <Text>0</Text>
@@ -1052,7 +1052,7 @@
       <Y>88</Y>
     </Location>
     <Size>
-      <CX>102</CX>
+      <CX>122</CX>
       <CY>8</CY>
     </Size>
     <GaugeOffsetY>-1</GaugeOffsetY>
@@ -1106,7 +1106,7 @@
     <RightAnchorOffset>797</RightAnchorOffset>
     <Location>
       <X>2</X>
-      <Y>79</Y>
+      <Y>87</Y>
     </Location>
     <Size>
       <CX>102</CX>
@@ -1145,7 +1145,7 @@
     <RightAnchorOffset>-118</RightAnchorOffset>
     <Location>
       <X>52</X>
-      <Y>84</Y>
+      <Y>92</Y>
     </Location>
     <Size>
       <CX>80</CX>
@@ -1172,7 +1172,7 @@
     <RightAnchorOffset>-145</RightAnchorOffset>
     <Location>
       <X>132</X>
-      <Y>84</Y>
+      <Y>92</Y>
     </Location>
     <Size>
       <CX>13</CX>
@@ -1185,7 +1185,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>2</X>
-      <Y>59</Y>
+      <Y>63</Y>
     </Location>
     <Size>
       <CX>102</CX>
@@ -1247,7 +1247,7 @@
     <RightAnchorOffset>673</RightAnchorOffset>
     <Location>
       <X>52</X>
-      <Y>64</Y>
+      <Y>68</Y>
     </Location>
     <Size>
       <CX>80</CX>
@@ -1274,7 +1274,7 @@
     <RightAnchorOffset>-143</RightAnchorOffset>
     <Location>
       <X>132</X>
-      <Y>64</Y>
+      <Y>68</Y>
     </Location>
     <Size>
       <CX>13</CX>
@@ -1399,8 +1399,8 @@
       <Y>200</Y>
     </Location>
     <Size>
-      <CX>254</CX>
-      <CY>108</CY>
+      <CX>274</CX>
+      <CY>116</CY>
     </Size>
     <Style_VScroll>false</Style_VScroll>
     <Style_HScroll>false</Style_HScroll>
